@@ -1,4 +1,3 @@
-//your code here
-
-document.getElementById("respond").innerHtml=Math.random();
-
+function funct(){
+	document.getElementById("btn").innerHTML=Math.random();
+}
