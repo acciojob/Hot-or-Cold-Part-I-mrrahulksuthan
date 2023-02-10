@@ -1,3 +1,3 @@
 function funct(){
-	document.getElementById("btn").innerHTML=Math.random();
+	document.getElementById("respond").innerHTML=Math.random();
 }
